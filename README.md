@@ -10,12 +10,13 @@
 > 
 
 # Run
-All arguments are setted in the file argument.py. If you want run experiments on different datasets or with different non-IID data, please modify the hyperparameter in argument.py.
+All arguments are setted in the file argument.py. If you want run experiments on different datasets or with different non-IID data, please modify the hyperparameters in argument.py.
 
-At present, we provide the data partition of SemEval, TACRED and TADREDV with `$\beta \in \{1, 5, 100\}$`.
+At present, we provide the data partition of SemEval, TACRED and TACREDV with `$\beta \in \{1, 5, 100\}$`.
 
 ## run pf-RC with heterogeneous local models: 
 > python train.py --personal True 
+
 ## run pf-RC with homogeneous local models: 
 > python train.py --personal False
 
