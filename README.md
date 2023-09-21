@@ -3,7 +3,7 @@
 ## Notice:
 ***Since we plan to extend our paper into a journal version, we will update the code in a near future.***
 
-Our paper is published at the SIGIR'23 conference, which is availabel [here](https://dl.acm.org/doi/pdf/10.1145/3539618.3591748). 
+Our paper is published at the SIGIR'23 conference, which is available [here](https://dl.acm.org/doi/pdf/10.1145/3539618.3591748). 
 
 ## Dependencies
 > python 3.6  
